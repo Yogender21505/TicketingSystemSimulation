@@ -47,7 +47,7 @@ This project simulates a ticketing system using C++11 threading. It demonstrates
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/ticketing-system-simulation.git
+    git clone https://github.com/Yogender21505/ticketing-system-simulation.git
     cd ticketing-system-simulation
     ```
 
